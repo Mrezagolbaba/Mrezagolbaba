@@ -6,7 +6,7 @@
 
  - B.Sc. in Electronic Engineering at QIAU University.
  - M.Sc. in Digital Electronic Engineering from QIAU University.
- - Python/Django Backend Developer in the field of Data Center Infrastructure Management (DCIM).
+ - Senior Front-End Developer Interested in MERN Stack.
  - Machine Learning and Robotics enthusiast, especially Deep Learning and Self-Driving Cars.
 
 <!--
