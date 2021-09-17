@@ -7,7 +7,7 @@
  - B.Sc. in Electronic Engineering at QIAU University.
  - M.Sc. in Digital Electronic Engineering from QIAU University.
  - Senior Front-End Developer Interested in MERN Stack.
- - Machine Learning and Robotics enthusiast, especially Deep Learning and Self-Driving Cars.
+ - Machine Learning and Robotics enthusiast, especially Deep Learning.
 
 <!--
 [![Mrezagolbaba's github stats](https://github-readme-stats.vercel.app/api?username=Mrezagolbaba&show_icons=true&theme=gruvbox)](https://github.com/Mrezagolbaba/Mrezagolbaba)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezagolbaba&layout=compact&theme=gruvbox)](https://github.com/Mrezagolbaba/Mrezagolbaba)
