@@ -15,10 +15,10 @@
 
 <p>
     <a align="left" href="https://github.com/Mrezagolbaba/Mrezagolbaba">
-        <img alt="Mrezagolbaba's github stats"  width="50%" src="https://github-readme-stats.vercel.app/api?username=Mrezagolbaba&show_icons=true&theme=gruvbox">
+        <img alt="Mrezagolbaba's github stats"  width="45%" src="https://github-readme-stats.vercel.app/api?username=Mrezagolbaba&show_icons=true&theme=gruvbox">
     </a>
     <a align="right" href="https://github.com/Mrezagolbaba/Mrezagolbaba">
-        <img alt="Mrezagolbaba's github stats"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezagolbaba&layout=compact&theme=gruvbox">
+        <img alt="Mrezagolbaba's github stats"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezagolbaba&layout=compact&theme=gruvbox">
     </a>
 </p>
 
