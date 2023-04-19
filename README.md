@@ -1,7 +1,7 @@
 # Me in a Nutshell
 
 [![SO](https://img.shields.io/badge/stack-overflow-f59b42.svg?style=for-the-badge)](https://stackoverflow.com/users/7360128/mohamad-reza1987)
-[![TW](https://img.shields.io/badge/twitter-4daedb.svg?style=for-the-badge)](https://twitter.com/MrezaGol)
+[![TW](https://img.shields.io/badge/twitter-4daedb.svg?style=for-the-badge)](https://twitter.com/MGolbaba)
 [![LI](https://img.shields.io/badge/linked-in-007cb5.svg?style=for-the-badge)](https://www.linkedin.com/in/mohamadreza-golbaba/)
 
  - B.Sc. in Electronic Engineering at QIAU University.
