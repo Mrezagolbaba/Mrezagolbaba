@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Sc. in Electronic Engineering at QIAU University.<br>M.Sc. in Digital Electronic Engineering from QIAU University.<br>FullStack Developer Interested in MERN Stack.<br>Machine Learning and Robotics enthusiast, especially Deep Learning.
+<br>M.Sc. from QIAU University.<br>FullStack Developer Interested in MERN Stack.<br>Machine Learning and Robotics enthusiast, especially Deep Learning.
 
 
 ## 🌐 Socials:
