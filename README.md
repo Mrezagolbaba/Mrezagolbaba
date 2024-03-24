@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mrezagolbaba&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" align="left" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrezagolbaba&theme=great-gatsby&hide_border=false" align="right" width="48%" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezagolbaba&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezagolbaba&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" width="100%"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mrezagolbaba&theme=radical&no-frame=false&no-bg=true&margin-w=4)
