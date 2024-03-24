@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrezagolbaba&theme=great-gatsby&hide_border=false" align="right" width="48%" />
 </div>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezagolbaba&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrezagolbaba&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" width="48%"/>
 </div>
 
 <br/>
